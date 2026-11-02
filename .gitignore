@@ -1,27 +1,6 @@
-
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-env/
-
-# Secrets
 .env
 .env.*
 !.env.example
-
-# IDE
-.vscode/
-.idea/
-
-# Generated reports
-reports/*
-!reports/.gitkeep
-
-# Logs
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
+.venv/
+__pycache__/
+*.pyc
